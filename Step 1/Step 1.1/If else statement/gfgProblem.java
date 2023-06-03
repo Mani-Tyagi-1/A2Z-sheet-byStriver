@@ -24,7 +24,7 @@ public static void main(String[] args) {
     m = S.nextInt();
     System.out.println("Enter value of n");
     n = S.nextInt();
-    
+    S.close();
     if(n<m)
         System.out.println("lesser");
         else if(n>m)

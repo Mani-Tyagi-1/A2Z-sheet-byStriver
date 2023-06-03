@@ -25,7 +25,7 @@ public class InputOutput {
     
       Scanner S = new Scanner(System.in); // 2
       {
-          String name;
+          java.lang.String name;
           System.out.println("Enter your name"); // Output to show
           name = S.nextLine(); // 3 
           S.close(); // closing the object when no need

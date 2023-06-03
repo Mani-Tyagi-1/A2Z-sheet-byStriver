@@ -28,7 +28,7 @@ class gfgProblem{
         int t = Integer.parseInt(in.readLine());
         while(t-- > 0){
             int choice = Integer.parseInt(in.readLine());
-            String a[] = in.readLine().trim().split("\\s+");
+            java.lang.String[] a = in.readLine().trim().split("\\s+");
             List<Double> arr = new ArrayList<Double>();
             for(int i = 0;i < choice;i++)
                 arr.add(Double.parseDouble(a[i]));

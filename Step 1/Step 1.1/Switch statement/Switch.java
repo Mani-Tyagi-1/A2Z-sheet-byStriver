@@ -21,7 +21,7 @@ public static void main(String[] args) {
     int choice;
     System.out.println("Enter your choice for days in a week");
     choice = S.nextInt();
-
+    S.close();
     switch(choice){
         case 1:
             System.out.println("Monday");
