@@ -1,0 +1,14 @@
+Time complexity --> The rate at which time taken increases with increase in the input size
+It is represented in the form of big O notation --> O(complexity)
+
+Rules
+# Always calculate worst case time complexity
+# Avoid constraints
+# Avoid lower values
+
+There are 3 type of notations 
+1. Big-Oh (O) --> worst case (upper bound)
+2. Theta --> average time complexity
+3. Omega --> best case (lower bound)
+
+

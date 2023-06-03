@@ -1,0 +1,6 @@
+Space complexity -- Memory space
+
+The sum of auxiliiary Space and input space is known as space complexity
+Auxiliiary Space --> Space that you need to solve the problem
+Input Space --> Space that you need to store the problem
+
