@@ -18,7 +18,7 @@ import java.util.Scanner;
     int n; 
     System.out.println("Enter n");
     n = S.nextInt();
-
+    S.close();
     for(int i=0;i<n;i++)
     {
         for(int j=0;j<n;j++)

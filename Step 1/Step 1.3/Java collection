@@ -1,0 +1,10 @@
+Java collection framework is a set of classes and interface that implement commonly reusable collection data structures. Although reffered to as framework it work in the form of library.
+
+Collection are of three type
+1. List -> arraylist, linkedlist, stack, queue
+2. set -> enumSet, hashSet, LinkedHashSet, TreeSet
+3. Queue -> ArrayQueue, LinkedList, priorityQueue
+
+
+Map -> HashMAp, TreeMap, EnumMap, LinkedHashMap, WeakHashMap
+Iterator -> listIterator
